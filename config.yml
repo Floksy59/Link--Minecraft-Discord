@@ -1,0 +1,31 @@
+# Link Discord channel and Minecraft chat
+# You can set-up your settings here or with the "/discord set" in-game command
+# Some important informations are displayed in the comment lines
+
+# Set-up your language (support en-US fr-FR fr-CA es-ES)
+# SOON
+#language: en-US
+# available: en-US fr-FR
+
+# Set if your Discord channel and your Minecraft chat are linked
+enable: true
+
+# Put your Discord Bot Token here (don't forget to leave the quotes)
+token: "botToken"
+
+# Put your Discord channel ID here (don't forget to keep the "L" at the end of the numeric ID)
+channel: nuemricL
+
+# The text which will be displayed below the Discord bot name on Discord
+# SOON
+#game: "mc.floksy.be:10846"
+
+# How messages will appear inside Discord channel
+# SOON
+#to_discord: "<" + player.getName() + "> " + message
+# Options : {player} {message}
+
+# How messages will appear inside Minecraft chat
+# SOON
+#to_minecraft: "Discord - <" + message.getAuthor().getName() + "> " + message.getContentDisplay()
+# Options : {author} {message}

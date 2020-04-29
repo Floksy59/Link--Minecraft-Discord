@@ -1,0 +1,25 @@
+main: fr.floksy.linkmcdiscord.Main
+name: LinkMCDiscord
+version: 1.0
+api: 1.15
+description: Link your Minecraft Chat to your Discord channel
+load: POSTWORLD
+author: Floksy
+website: mc.floksy.be
+prefix: LinkMCDiscord
+#depend:
+#- WorldEdit
+#- Towny
+#softdepend:
+#- FAWE
+#loadbefore:
+#- Essentials
+commands:
+  discord:
+    description: Link your Minecraft Chat to your Discord channel !
+    permission: discord.command
+    permission-message: You aren't allowed to modify these settings !
+permissions:
+  discord.*:
+   description: Allows full plugin acces
+   default: op

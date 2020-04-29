@@ -1,0 +1,38 @@
+#Console:
+consoleStart: "Discord channel - Minecraft chat : Linking plugin started."
+consoleStop: "Discord channel - Minecraft chat : Linking plugin stopped."
+linkEstablished: "Link succesfully established !"
+
+#Errors:
+noChannelSet: "Channel ID not found. Have you set-up the confil.yml file ?"
+noTokenSet: "Token not found. Have you set-up the confil.yml file ?"
+alreadyEnabled: "Unable to enable link, it is already enabled !"
+alreadyDisabled: "Unable to disable link, it is already disabled !"
+
+#Command:
+usageHelp: "Usage: /discord help"
+usageReload: "Usage: /discord reload"
+usageEnable: "Usage: /discord enable"
+usageDisable: "Usage: /discord disable"
+usageSet: "Usage: /discord set [channel | token | game]"
+usageSetChannel: "Usage: /discord set channel [channel_ID]"
+usageSetToken: "Usage: /discord set token [bot_token]"
+usageSetGame: "Usage: /discord set game [text]"
+
+#Help:
+how2setup: "If you haven't follow the video to create your Discord bot and set it up, follow this link : 'YTBVIDLINK'"
+commandHelp: "/discord help --> Display full help page"
+commandReload: "/discord reload --> Reloads the config file"
+commandEnable: "/discord enable --> Activate the link between Discord channel and Minecraft chat"
+commandDisable: "/discord disable --> Desactivate the link between Discord channel and Minecraft chat"
+commandSet: "/discord set --> Use it once to set your channel ID and BotToken"
+
+#Help Set:
+commandSetChannel: "/discord set channel --> Set the channel ID of your Discord channel (can also be done in config.yml)"
+commandSetToken: "/discord set token --> Set the token of your Discord bot (can also be done in config.yml)"
+commandSetGame: "/discord set game --> Set the displayed game below the bot name in Discord server"
+commandLang: "/discord set lang --> Set your language"
+
+#Enabling & Disabling
+enabling: "Enabling Discord channel and Minecraft chat link..."
+disabling: "Disabling Discord channel and Minecraft chat link..."
