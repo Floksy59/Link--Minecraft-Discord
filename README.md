@@ -14,15 +14,15 @@ Importez les fichiers source dans votre IDE, en faisant bien attention de bien i
 X champs sont à renseigner selon votre cas :
 Dans le fichier *XXX.java* vous devez renseigner à la ligne X votre XXX à la place des XXX présents :
 ```
-XXX
+XX
 ```
 Dans le fichier *XXX.java* vous devez renseigner à la ligne X votre XXX à la place des XXX présents :
 ```
-XXX
+XX
 ```
 Ainsi que :
 ```
-XXX
+XX
 ```
 
 ## Compilation :
@@ -35,4 +35,8 @@ Si tout cela est correct, tout message envoyé sur Minecraft sera automatiquemen
 Et l'inverse devrait également fonctionner.
 
 # Crédits
+<<<<<<< HEAD
 Ce plugin a été présenté par NeutronStars sur Youtube (sa vidéo de présentation : https://youtu.be/rZJo0mNVphs), allez donc le remercier pour la programmation de ce plugin !
+=======
+Ce plugin a été présenté par NeutronStars sur Youtube (sa vidéo de présentation : https://youtu.be/rZJo0mNVphs), allez donc le remercier pour la programmation de ce plugin !
+>>>>>>> 77abfffc91466c964df5b7b28ccddd73fb614784
