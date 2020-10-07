@@ -35,8 +35,4 @@ Si tout cela est correct, tout message envoyé sur Minecraft sera automatiquemen
 Et l'inverse devrait également fonctionner.
 
 # Crédits
-<<<<<<< HEAD
 Ce plugin a été présenté par NeutronStars sur Youtube (sa vidéo de présentation : https://youtu.be/rZJo0mNVphs), allez donc le remercier pour la programmation de ce plugin !
-=======
-Ce plugin a été présenté par NeutronStars sur Youtube (sa vidéo de présentation : https://youtu.be/rZJo0mNVphs), allez donc le remercier pour la programmation de ce plugin !
->>>>>>> 77abfffc91466c964df5b7b28ccddd73fb614784
